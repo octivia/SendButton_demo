@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SendButton</string>
+    <string name="for_toggle">For toggle</string>
+    <string name="change_background_color_to_white">Change background color to White</string>
+    <string name="change_background_color_to_black">Change background color to Black</string>
+</resources>
